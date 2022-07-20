@@ -1,4 +1,4 @@
-module github.com/leancloud/golang-getting-started
+module github.com/saintbyte/go-telemetry-receiver
 
 go 1.14
 
