@@ -1,6 +1,6 @@
 module github.com/saintbyte/go-telemetry-receiver
 
-go 1.14
+go 1.19
 
 require (
 	github.com/labstack/echo/v4 v4.1.17
