@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/labstack/echo/v4 v4.9.0
-	github.com/leancloud/go-sdk v0.3.1
+	github.com/leancloud/go-sdk v0.3.2
 )
 
 require (
